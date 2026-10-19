@@ -91,7 +91,7 @@ These approaches are discussed as possible ways to support the hospital's future
 
 The repository contains the documentation and practical evidence for the five portfolio activities, including relevant database scripts, models, query execution plans, performance analysis, and supporting screenshots where available.
 
-## Key Learning Outcomes
+## Key Outcomes
 
 This project provides practical experience in:
 
